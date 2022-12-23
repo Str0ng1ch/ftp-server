@@ -1,7 +1,7 @@
 import socket
 import os
 
-dirname = os.path.join(os.getcwd(), 'docs')
+dirname = os.getcwd()
 
 
 def process(req):
